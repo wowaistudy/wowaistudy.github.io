@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CPU, GPU, NPU, TPU (4/5) - 격자는 왜 굶는가
+title: CPU, GPU, NPU, TPU (4/4) - 격자는 왜 굶는가
 date: 2026-10-18 19:20:27 +0900
 categories: [공부 기록]
 ---

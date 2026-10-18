@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CPU, GPU, NPU, TPU (2/3) - 스위치 두 개에서 GPU까지
+title: CPU, GPU, NPU, TPU (2/4) - 스위치 두 개에서 GPU까지
 date: 2026-10-15 20:07:01 +0900
 categories: [공부 기록]
 ---
