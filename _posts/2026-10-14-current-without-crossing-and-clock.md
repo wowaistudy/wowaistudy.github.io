@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CPU, GPU, NPU, TPU (1/2) - 트랜지스터의 원리
+title: CPU, GPU, NPU, TPU (1/4) - 트랜지스터의 원리
 date: 2026-10-14 16:09:31 +0900
 categories: [공부 기록]
 ---
