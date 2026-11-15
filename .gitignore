@@ -5,3 +5,7 @@ _site/
 .bundle/
 vendor/
 Gemfile.lock
+
+# 로컬 공부 노트(Obsidian 보관함). 커밋하지 않는다.
+obstudya/
+.DS_Store
